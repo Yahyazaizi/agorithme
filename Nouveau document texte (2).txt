@@ -1,0 +1,26 @@
+algo ex 11
+
+
+
+Algorithme signe
+Variables A, B: entier
+
+Début
+Ecrire ("svp saisir la valeur de A: ")
+Lire (A)
+Ecrire ("svp saisir la valeur de B: ")
+
+Lire (B)
+
+Si A>0 et B>0alors
+
+Ecrire ("A est B ont le meme signe")
+
+Sinon
+si A<0 ET B<0
+Ecrire ("A est B ont le meme signe")
+sinon
+Ecrire ("A est B ont deux signes differents") 
+fin si
+fin si
+Fin
