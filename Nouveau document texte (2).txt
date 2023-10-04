@@ -1,7 +1,4 @@
-algo ex 11
-
-
-
+# algorithme ex11
 Algorithme signe
 Variables A, B: entier
 
